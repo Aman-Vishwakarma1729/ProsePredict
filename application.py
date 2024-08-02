@@ -1,6 +1,6 @@
 import os
 import numpy as np
-import tensorflow
+import tensorflow as tf
 from src.pipelines.prediction_pipeline import predict_next_word
 from tensorflow.keras.models import load_model
 from src.utils import load_object
