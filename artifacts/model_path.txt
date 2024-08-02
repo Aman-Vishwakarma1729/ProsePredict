@@ -1,1 +1,1 @@
-D:\Gen_AI\projects\project_3_next_word_prediction_LSTM_GRU\models\tokenizer.pkl==D:\Gen_AI\projects\project_3_next_word_prediction_LSTM_GRU\models\gru_model.h5
+ProsPredict\models\tokenizer.pkl==ProsPredict\models\gru_model.h5
