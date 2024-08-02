@@ -16,6 +16,9 @@ with open(file_path,'r') as file:
 tokenizer_path =  lines[0].split("==")[0]
 model_path =  lines[0].split("==")[1]
 
+tokenizer_path = os.path.join(os.getcwd(),'models',tokenizer_path)
+model_path  = os.path.join(os.getcwd(),'models',model_path)
+
 tokenizer = load_object(tokenizer_path)
 model = load_model(model_path)
 max_sequence_len = model.input_shape[1]+1

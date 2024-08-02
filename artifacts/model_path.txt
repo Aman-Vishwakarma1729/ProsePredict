@@ -1,1 +1,1 @@
-ProsPredict\models\tokenizer.pkl==ProsPredict\models\gru_model.h5
+tokenizer.pkl==gru_model.h5
