@@ -3,3 +3,4 @@ scikit-learn
 setuptools
 nltk
 tensorflow
+streamlit
