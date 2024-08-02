@@ -1,6 +1,6 @@
-numpy
+numpy==1.21.6
 scikit-learn
 setuptools
 nltk
-tensorflow
+tensorflow==2.8.0
 streamlit
